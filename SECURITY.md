@@ -1,1 +1,1 @@
-Please submit all security vulnerability on github.
+Please submit all security vulnerability's on github.
